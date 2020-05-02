@@ -23,12 +23,12 @@ Website: [masakhane.io](https://masakhane.io)
 
 ## Progress
 
-- Look at our submitted machine translation benchmarks [here](https://github.com/masakhane-io/masakhane/blob/master/language_pairs.md)! Can't see your language? Please submit a benchmark!
+- Look at our submitted machine translation benchmarks [here](https://github.com/masakhane-io/masakhane-mt/blob/master/language_pairs.md)! Can't see your language? Please submit a benchmark!
 - Check out our [paper](https://arxiv.org/pdf/2003.11529) to be published at AfricaNLP Workshop @ ICLR 2020
-- Check out papers written by our participants [here](https://github.com/masakhane-io/masakhane/blob/master/publications.md)
-- Find our more about our [current initiatives](https://github.com/masakhane-io/masakhane/blob/master/initiatives.md)
-- Look at our list of [community documents](https://github.com/masakhane-io/masakhane/blob/master/community-documents.md)
-- Read our [weekly meeting notes](https://github.com/masakhane-io/masakhane/tree/master/meetingsummaries)
+- Check out papers written by our participants [here](https://github.com/masakhane-io/masakhane-community/blob/master/publications.md)
+- Find our more about our [current initiatives](https://github.com/masakhane-io/masakhane-community/blob/master/initiatives.md)
+- Look at our list of [community documents](https://github.com/masakhane-io/masakhane-community/blob/master/community-documents.md)
+- Read our [weekly meeting notes](https://github.com/masakhane-io/masakhane-community/tree/master/meetingsummaries)
 - Follow our publication on [Medium](https://medium.com/masakhane)
 
 ## How can I contribute?
@@ -46,7 +46,7 @@ There are many ways to contribute to **MASAKHANE**.
 9. **STORY-TELLING** - Tell our stories to the world by doing talks about the community, contributing to our [Medium publication](https://medium.com/masakhane), or engaging with media outlets
 10. **MLOps & ML Engineering** - Do you enjoy delving into the MLOps side of machine learning? Are you a software developer looking to hone-in on your ML engineer abilities? Join us to help build tools to support out reproducability, data gathering, and model sharing!
 
-Want more details? Check out our [current initiatives](https://github.com/masakhane-io/masakhane/blob/master/initiatives.md)
+Want more details? Check out our [current initiatives](https://github.com/masakhane-io/masakhane-community/blob/master/initiatives.md)
 
 ## How do I join?
 
@@ -61,8 +61,8 @@ Want more details? Check out our [current initiatives](https://github.com/masakh
 ## Where do I start
 
 - If you're on slack, you'll see a number of channels which reflect our [initiatives](#initiatives) (described below). Join them and start engaging
-- Every week, we have an open meeting for our members. These are described on our [meeting agenda](https://github.com/masakhane-io/weekly-meeting-agenda) where you can learn about the format, add and vote on topics. Make sure you've joined our [google group](ttps://groups.google.com/forum/#!forum/masakhane-mt)
-- If you're not sure what value you can add, check out our growing [message board](https://github.com/masakhane-io/message-board) to see if there are any tasks you can pick up!
+- Every week, we have an open meeting for our members. These are described on our [meeting agenda](https://github.com/masakhane-io/masakhane-meeting-agenda) where you can learn about the format, add and vote on topics. Make sure you've joined our [google group](ttps://groups.google.com/forum/#!forum/masakhane-nlp)
+- If you're not sure what value you can add, check out our growing [message board](https://github.com/masakhane-io/masakhane-message-board) to see if there are any tasks you can pick up!
 
 ## Initiatives
 
@@ -70,7 +70,7 @@ Every week we have more ideas, and more impromptu projects that emerge. Keen on 
 
 Working on a Masakhane initiative that is not listed here? Please add it with a PR :heart:
 
-Keen to help on any of these initiatives? Please see our [message board](https://github.com/masakhane-io/message-board)
+Keen to help on any of these initiatives? Please see our [message board](https://github.com/masakhane-io/masakhane-message-board)
 
 | Initiative                     | Description                                                                                                            | Slack Channel          | Repository                                           |
 |--------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------------|------------------------------------------------------|
