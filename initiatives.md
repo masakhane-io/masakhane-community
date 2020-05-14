@@ -16,3 +16,4 @@ Keen to help on any of these initiatives? Please see our [message board](https:/
 | Multilingual Chatbot           | Developing multilingual chatbots                                                                                       | #multilingual-dialogue |
 | Transfer Learning              | Transfer Learning & Multilingual Expansion of Benchmarks                                                               | #transfer-learning     |
 | Evaluation of Masakhane Models | How good are the Masakhane models? How can we measure it, besides looking at BLEU scores?                              | #evaluation            |
+| Open Virtual Assistant         | Let's build an open virtual assistant that speaks African languages.                                                   | #open-virtual-assistant|
