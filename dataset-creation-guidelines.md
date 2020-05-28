@@ -16,7 +16,7 @@ Example of NER: John [PERSON] is going to Kenya [LOCATION] on Monday [DATE]
 
 For annotation, we will be following the Message Understanding Conference (MUC-6) named entity definition guideline for identifying Persons, organizations, locations, dates and times, see https://cs.nyu.edu/faculty/grishman/NEtask20.book_1.html
 
-Person Annotation [PER]
+### Person Annotation [PER]
 1) Personal names (including firstnames, middle names and last names) should be tagged excluding titles e.g Mr, Mrs, President, Professor, et.c
 
 Examples:
