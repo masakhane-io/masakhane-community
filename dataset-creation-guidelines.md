@@ -34,8 +34,11 @@ Example:
 Some tokenization may separate "Ahmed" and "'s", in that case, we have, For example in CoNLL format, where 'O' is no label.
 
 > Abiy, PER
+
 > Ahmed, PER
+
 > 's, O
+
 > wife, O
 
 3) Personal names that refers to an organization, location, events, law, disease, prizes should not be tagged. Example,
