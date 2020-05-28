@@ -53,9 +53,9 @@ Some tokenization may separate "Ahmed" and "'s", in that case, we have, For exam
 
 
 ### Organization Annotation [ORG]
-1) Corporate designators such as "Co." are organizations
-Example
-The Bridgestone [ORG] Sports [ORG] Co. [ORG]
+1) Corporate designators such as "Co." are organizations. Example:
+
+> The Bridgestone [ORG] Sports [ORG] Co. [ORG]
 
 2) Proper names that includes sports teams, stock exchanges, multinational organizations, political parties, unions, government parastatal. Many of them comes in abbreviations e.g WHO, NCDC, NASDAQ, EU, AU
 
@@ -82,88 +82,117 @@ The patient is in the hospital.
 
 ### Location Annotation [ORG]
 
-1) All country names,region names, state names and city names 
-United [LOC] States [LOC] of [LOC] America [LOC]
-USA [LOC]
-Cape [LOC] Town [LOC]
-Niger [LOC] Delta [LOC] Region [LOC]
+1) All country names,region names, state names and city names.
 
-2) Multiword expressions in which place names are separated by a comma are to be tagged as separate instances of LOCATION.
+> United [LOC] States [LOC] of [LOC] America [LOC]
 
-Example:
-Cairo [LOC], Egypt [LOC]
-Washington [LOC] , D.C. [LOC]
+> USA [LOC]
+
+> Cape [LOC] Town [LOC]
+
+> Niger [LOC] Delta [LOC] Region [LOC]
+
+2) Multiword expressions in which place names are separated by a comma are to be tagged as separate instances of LOCATION. Example:
+
+> Cairo [LOC], Egypt [LOC]
+
+> Washington [LOC] , D.C. [LOC]
 
 3) Do not label Nationalities and street addresses as locations.
- An American is traveling to Abuja [LOC]
- A Nigerian hospital
- 53140 Gatchell Road
 
-4) Place names can sometimes be part of an organization. The annotation will follow these guidelines: (1) If there is a corporate designator, it marks the end of the organization name; (2) if there is no corporate designator, the "of <place-name>" is part of the organization name.
+ > An American is traveling to Abuja [LOC]
+ 
+ > A Nigerian hospital
+ 
+ > 53140 Gatchell Road
 
-Example:
-Hyundai [ORG] of [ORG] Korea [ORG] , [ORG] Inc. [ORG]
-Hyundai [ORG], [ORG] Inc.[ORG] of Korea [LOC]
-John [PER] is working in BOSCH [ORG], Germany [LOC].
-University [ORG] of [ORG] California [ORG] in Los [LOC] Angeles [LOC]
+4) Place names can sometimes be part of an organization. The annotation will follow these guidelines: (a) If there is a corporate designator, it marks the end of the organization name; (b) if there is no corporate designator, the "of <place-name>" is part of the organization name. Example:
+ 
+> Hyundai [ORG] of [ORG] Korea [ORG] , [ORG] Inc. [ORG]
+
+> Hyundai [ORG], [ORG] Inc.[ORG] of Korea [LOC]
+
+> John [PER] is working in BOSCH [ORG], Germany [LOC].
+
+> University [ORG] of [ORG] California [ORG] in Los [LOC] Angeles [LOC]
 
 
 
 ### DATE Annotation [DATE]
  Tag all absolute and relative dates or periods, including days, months, years. We could combine DATE and TIME annotation as [DATETIME]
 
-1) Absolute date expressions are to be tagged. Absolute date expression must indicate a specific segment of date i.e the particular day, season, financial quarters, years, decade or a particular century:
-Example:
-Monday [DATE]
-10th [DATE] of [DATE] October [DATE]
-April [DATE] 6[DATE],[DATE] 2020 [DATE]
-Summer [DATE]
-the Autumn [DATE] report
-Winter [DATE] 2020 [DATE]
-fourth [DATE] quarter [DATE]
-third [DATE] quarter [DATE] of [DATE] 1991 [DATE]
-first [DATE] half [DATE] of [DATE] the [DATE] year [DATE]
-1995 [DATE]
-1980s [DATE] 
-19th [DATE] century [DATE]
+1) Absolute date expressions are to be tagged. Absolute date expression must indicate a specific segment of date i.e the particular day, season, financial quarters, years, decade or a particular century. Example:
 
-2) Relative time expressions should also be tagged.
-Example:
-July [DATE] last [DATE] year [DATE]
-this [DATE] June [DATE]
-next [DATE] summer [DATE]
-thirty [DATE] days [DATE] before [DATE] the [DATE] end [DATE] of [DATE] the [DATE] year [DATE]
+> Monday [DATE]
 
-3) Special days, such as holidays, that are referenced by name should be tagged
-Example:
-because of the observance of All [DATE] Saints' [DATE] Day [DATE]
-The Christmas [DATE] day [DATE]
+> 10th [DATE] of [DATE] October [DATE]
 
-4) Expression indicating periods between two dates should be tagged. 
-Example:
-We are on vacation between [DATE] July [DATE] 1 [DATE] and [DATE] July [DATE] 8 [DATE]
-Her visit is from [DATE] July [DATE] 1 [DATE] and [DATE] July [DATE] 8 [DATE]
+> April [DATE] 6[DATE],[DATE] 2020 [DATE]
+
+> Summer [DATE]
+
+> the Autumn [DATE] report
+
+> Winter [DATE] 2020 [DATE]
+
+> fourth [DATE] quarter [DATE]
+
+> third [DATE] quarter [DATE] of [DATE] 1991 [DATE]
+
+> first [DATE] half [DATE] of [DATE] the [DATE] year [DATE]
+
+> 1995 [DATE]
+
+> 1980s [DATE] 
+
+> 19th [DATE] century [DATE]
+
+2) Relative time expressions should also be tagged. Example:
+
+> July [DATE] last [DATE] year [DATE]
+
+> this [DATE] June [DATE]
+
+> next [DATE] summer [DATE]
+
+> thirty [DATE] days [DATE] before [DATE] the [DATE] end [DATE] of [DATE] the [DATE] year [DATE]
+
+3) Special days, such as holidays, that are referenced by name should be tagged. Example:
+
+> because of the observance of All [DATE] Saints' [DATE] Day [DATE]
+
+> The Christmas [DATE] day [DATE]
+
+4) Expression indicating periods between two dates should be tagged. Example:
+
+> We are on vacation between [DATE] July [DATE] 1 [DATE] and [DATE] July [DATE] 8 [DATE]
+> Her visit is from [DATE] July [DATE] 1 [DATE] and [DATE] July [DATE] 8 [DATE]
 
 
 ### TIME Annotation [TIME]
 This refers to times smaller than a day.
 
-1) Absolute time expressions are to be tagged. Absolute time expression must indicate a specific segment of time i.e a particular minute and hour. 
-Example:
-20 [TIME] minutes [TIME] after [TIME] 10 [TIME]
-midnight [TIME] 
-twelve [TIME]  o'clock [TIME]  noon [TIME] 
-noon [TIME] 
-5 [TIME] p.m. [TIME] EST [TIME]
-5:40 [TIME]
+1) Absolute time expressions are to be tagged. Absolute time expression must indicate a specific segment of time i.e a particular minute and hour. Example:
 
-2) Time expression including the city time zone should be tagged
-Example:
-1:30 [TIME] p.m. [TIME] Chicago [TIME] time [TIME]
+> 20 [TIME] minutes [TIME] after [TIME] 10 [TIME]
 
-3) Expression indicating periods between two time should be tagged. 
-Example:
-The election is from 2 [TIME] p.m.[TIME] to 4 [TIME] p.m. [TIME]
+> midnight [TIME] 
+
+> twelve [TIME]  o'clock [TIME]  noon [TIME] 
+
+> noon [TIME] 
+
+> 5 [TIME] p.m. [TIME] EST [TIME]
+
+> 5:40 [TIME]
+
+2) Time expression including the city time zone should be tagged. Example:
+
+> 1:30 [TIME] p.m. [TIME] Chicago [TIME] time [TIME]
+
+3) Expression indicating periods between two time should be tagged. Example:
+ 
+> The election is from 2 [TIME] p.m.[TIME] to 4 [TIME] p.m. [TIME]
 
 
 ## Translation
