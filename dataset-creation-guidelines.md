@@ -17,18 +17,16 @@ Example of NER: John [PERSON] is going to Kenya [LOCATION] on Monday [DATE]
 For annotation, we will be following the Message Understanding Conference (MUC-6) named entity definition guideline for identifying Persons, organizations, locations, dates and times, see https://cs.nyu.edu/faculty/grishman/NEtask20.book_1.html
 
 ### Person Annotation [PER]
-1) Personal names (including firstnames, middle names and last names) should be tagged excluding titles e.g Mr, Mrs, President, Professor, et.c
-
-Examples:
+1) Personal names (including firstnames, middle names and last names) should be tagged excluding titles e.g Mr, Mrs, President, Professor, e.t.c. Examples:
 
 > President Donald [PER] Trump [PER]
 
 > Donald [PER] Trump [PER] Jr. [PER]
 
-2) Family names should be tagged.
+2) Family names should be tagged. Example:
 
-Example:
  > The Kennedy [PER] family
+ 
  > Abiy [PER] Ahmed's [PER] wife. 
 
 Some tokenization may separate "Ahmed" and "'s", in that case, we have, For example in CoNLL format, where 'O' is no label.
@@ -43,12 +41,15 @@ Some tokenization may separate "Ahmed" and "'s", in that case, we have, For exam
 
 3) Personal names that refers to an organization, location, events, law, disease, prizes should not be tagged. Example,
 
-St. Michael
-Nobel Prize
+> St. Michael
 
-George [PER] Washington [PER] was born in 1732.
-George Washington University was established in 1821.
-The White House is located in Washington.
+> Nobel Prize
+
+> George [PER] Washington [PER] was born in 1732.
+
+> George Washington University was established in 1821.
+
+> The White House is located in Washington.
 
 
 ### Organization Annotation [ORG]
