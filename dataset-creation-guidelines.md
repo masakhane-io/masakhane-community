@@ -48,9 +48,7 @@ George Washington University was established in 1821.
 The White House is located in Washington.
 
 
-
-
-Organization Annotation [ORG]
+### Organization Annotation [ORG]
 1) Corporate designators such as "Co." are organizations
 Example
 The Bridgestone [ORG] Sports [ORG] Co. [ORG]
@@ -78,7 +76,8 @@ The patient will be transferred to the General [ORG] Hospital [ORG] Ikoyi [ORG].
 The patient is in the hospital.
 
 
-Location Annotation [ORG]
+### Location Annotation [ORG]
+
 1) All country names,region names, state names and city names 
 United [LOC] States [LOC] of [LOC] America [LOC]
 USA [LOC]
@@ -106,7 +105,7 @@ University [ORG] of [ORG] California [ORG] in Los [LOC] Angeles [LOC]
 
 
 
-DATE Annotation [DATE]
+### DATE Annotation [DATE]
  Tag all absolute and relative dates or periods, including days, months, years. We could combine DATE and TIME annotation as [DATETIME]
 
 1) Absolute date expressions are to be tagged. Absolute date expression must indicate a specific segment of date i.e the particular day, season, financial quarters, years, decade or a particular century:
@@ -142,7 +141,7 @@ We are on vacation between [DATE] July [DATE] 1 [DATE] and [DATE] July [DATE] 8 
 Her visit is from [DATE] July [DATE] 1 [DATE] and [DATE] July [DATE] 8 [DATE]
 
 
-TIME Annotation [TIME]
+### TIME Annotation [TIME]
 This refers to times smaller than a day.
 
 1) Absolute time expressions are to be tagged. Absolute time expression must indicate a specific segment of time i.e a particular minute and hour. 
