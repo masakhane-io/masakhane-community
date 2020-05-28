@@ -21,22 +21,22 @@ For annotation, we will be following the Message Understanding Conference (MUC-6
 
 Examples:
 
-President Donald [PER] Trump [PER]
+> President Donald [PER] Trump [PER]
 
-Donald [PER] Trump [PER] Jr. [PER]
+> Donald [PER] Trump [PER] Jr. [PER]
 
 2) Family names should be tagged.
 
 Example:
- The Kennedy [PER] family
- Abiy [PER] Ahmed's [PER] wife. 
+ > The Kennedy [PER] family
+ > Abiy [PER] Ahmed's [PER] wife. 
 
 Some tokenization may separate "Ahmed" and "'s", in that case, we have, For example in CoNLL format, where 'O' is no label.
 
-Abiy, PER
-Ahmed, PER
-'s, O
-wife, O
+> Abiy, PER
+> Ahmed, PER
+> 's, O
+> wife, O
 
 3) Personal names that refers to an organization, location, events, law, disease, prizes should not be tagged. Example,
 
