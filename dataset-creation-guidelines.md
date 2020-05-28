@@ -59,25 +59,25 @@ Some tokenization may separate "Ahmed" and "'s", in that case, we have, For exam
 
 2) Proper names that includes sports teams, stock exchanges, multinational organizations, political parties, unions, government parastatal. Many of them comes in abbreviations e.g WHO, NCDC, NASDAQ, EU, AU
 
-The World [ORG] Health [ORG] Organization [ORG]
-AU [ORG]
+> The World [ORG] Health [ORG] Organization [ORG]
 
-3) Proper names referring to facilities e.g factories, hotels, universities, airports, hospitals, churches except (a) the name is clearly the name of the structure/place and not of an organization, or (b) the name is known to be the name of an organization but is used only in reference to the facility as a structure/place. 
-Example:
+> AU [ORG]
 
-The Frankfurt [ORG] Airport [ORG] Management have new rules for Aircraft.
+3) Proper names referring to facilities e.g factories, hotels, universities, airports, hospitals, churches except (a) the name is clearly the name of the structure/place and not of an organization, or (b) the name is known to be the name of an organization but is used only in reference to the facility as a structure/place. Example:
 
-I am traveling from the Frankfurt Airport .....will not be tagged
+> The Frankfurt [ORG] Airport [ORG] Management have new rules for Aircraft.
 
-I will stay at the IBIS [ORG] Hotel [ORG]
+> I am traveling from the Frankfurt Airport .....will not be tagged
 
-The Supreme [ORG] Court [ORG] of [ORG] Nigeria [ORG]
+> I will stay at the IBIS [ORG] Hotel [ORG]
 
-The convict will be taken to court.
+> The Supreme [ORG] Court [ORG] of [ORG] Nigeria [ORG]
 
-The patient will be transferred to the General [ORG] Hospital [ORG] Ikoyi [ORG].
+> The convict will be taken to court.
 
-The patient is in the hospital.
+> The patient will be transferred to the General [ORG] Hospital [ORG] Ikoyi [ORG].
+
+> The patient is in the hospital.
 
 
 ### Location Annotation [ORG]
@@ -166,6 +166,7 @@ The patient is in the hospital.
 4) Expression indicating periods between two dates should be tagged. Example:
 
 > We are on vacation between [DATE] July [DATE] 1 [DATE] and [DATE] July [DATE] 8 [DATE]
+
 > Her visit is from [DATE] July [DATE] 1 [DATE] and [DATE] July [DATE] 8 [DATE]
 
 
