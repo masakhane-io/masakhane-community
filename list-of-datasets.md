@@ -29,3 +29,19 @@
 
 ## Named Entity Recognition
 
+| Language | Source |
+|----------|--------|
+|  isiZulu    |  [SADiLaR](https://repo.sadilar.org/handle/20.500.12185/319)  |
+|  isiXhosa    |  [SADiLaR](https://repo.sadilar.org/handle/20.500.12185/312)  |
+|  Afrikaans    |  [SADiLaR](https://repo.sadilar.org/handle/20.500.12185/299)  |
+|  Sepedi    |  [SADiLaR](https://repo.sadilar.org/handle/20.500.12185/328)  |
+|  Setswana    |  [SADiLaR](https://repo.sadilar.org/handle/20.500.12185/341)  |
+|  Sesotho    |  [SADiLaR](https://repo.sadilar.org/handle/20.500.12185/334)  |
+|  Xitsonga    |  [SADiLaR](https://repo.sadilar.org/handle/20.500.12185/362)  |
+|  Siswati    |  [SADiLaR](https://repo.sadilar.org/handle/20.500.12185/346)  |
+|  Tshivenda    |  [SADiLaR](https://repo.sadilar.org/handle/20.500.12185/355)  |
+|  isiNdebele    |  [SADiLaR](https://repo.sadilar.org/handle/20.500.12185/306)  |
+|  Yorùbá    |  [Global Voices Yorùbá NER](https://github.com/ajesujoba/YorubaTwi-Embedding/tree/master/Yoruba/Yor%C3%B9b%C3%A1-NER)  |
+
+
+
