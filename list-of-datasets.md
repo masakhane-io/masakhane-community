@@ -10,7 +10,8 @@
 |  English-Xitsonga   |   [Autshumato Corpus](http://rma.nwu.ac.za/index.php/resource-catalogue/autshumato-english-xitsonga-bilingual-corpus.html)  |
 |  English-Northern-Sotho   |   [Autshumato Corpus](https://repo.sadilar.org/handle/20.500.12185/402)  |
 |  English-Afrikaans   |  [Autshumato Corpus](https://repo.sadilar.org/handle/20.500.12185/397)  |
-| English-isiXhosa | [Navy Corpus](http://opus.nlpl.eu/XhosaNavy.php)
+| English-isiXhosa | [Navy Corpus](http://opus.nlpl.eu/XhosaNavy.php) |
+| Lingala-French | [Lingala Song Lyrics](https://github.com/espoirMur/songs_lyrics_webscrap) |
 
 
 ## Monolingual
