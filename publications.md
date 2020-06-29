@@ -1,4 +1,11 @@
-# ICLR - AfricaNLP 2020
+# ACL - [WiNLP 2020](http://www.winlp.org/winlp-2020-workshop/)
+- [Akinfaderin, Adewale. "HausaMT v1.0: Towards English–Hausa Neural Machine Translation" (2020)](https://www.aclweb.org/anthology/2020.winlp-1.38/)
+- [Babafemi, Oyinlola  and Adewale Akinfaderin. "Predicting and Analyzing Law-Making in Kenya" (2020)](https://www.aclweb.org/anthology/2020.winlp-1.26/)
+- [Emezue, Chris C and Bonaventure FP Dossou. "FFR v1.1: Fon-French Neural Machine Translation" (2020)](https://www.aclweb.org/anthology/2020.winlp-1.21/)
+
+
+
+# ICLR - [AfricaNLP 2020](https://africanlp-workshop.github.io/)
 
 - [∀, Masakhane - Machine Translation for Africa (2020)](https://arxiv.org/pdf/2003.11529.pdf)
 - [Dossou, Bonaventure FP, and Chris C. Emezue. "FFR V1. 0: Fon-French Neural Machine Translation." (2020)](https://arxiv.org/pdf/2003.12111.pdf).
