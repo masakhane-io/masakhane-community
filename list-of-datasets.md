@@ -2,17 +2,17 @@
 
 ## Translation 
 
-| Language | Source |
-|----------|--------|
-| Multilingual | [JW300](http://opus.nlpl.eu/JW300.php) |
-| English-isiZulu    | [Autshumato Corpus](https://rma.nwu.ac.za/index.php/autshumato-eng-zu-parallel-corpora.html) |
-|  English-Setswana    |   [Autshumato Corpus](http://rma.nwu.ac.za/index.php/resource-catalogue/autshumato-english-setswana-multi-bilingual-corpus.html)  |
-|  English-Xitsonga   |   [Autshumato Corpus](http://rma.nwu.ac.za/index.php/resource-catalogue/autshumato-english-xitsonga-bilingual-corpus.html)  |
-|  English-Northern-Sotho   |   [Autshumato Corpus](https://repo.sadilar.org/handle/20.500.12185/402)  |
-|  English-Afrikaans   |  [Autshumato Corpus](https://repo.sadilar.org/handle/20.500.12185/397)  |
-| English-isiXhosa | [Navy Corpus](http://opus.nlpl.eu/XhosaNavy.php) |
-| Lingala-French | [Lingala Song Lyrics](https://github.com/espoirMur/songs_lyrics_webscrap) |
-| Igbo-English | [Igbo-English Evaluation Benchmark](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_en_mt) |
+Task | Language(s) | Size | Domain | Source | 
+|--------|------|--------|--------|
+| | Multilingual | | | [JW300](http://opus.nlpl.eu/JW300.php) |
+| | English-isiZulu | | | [Autshumato Corpus](https://rma.nwu.ac.za/index.php/autshumato-eng-zu-parallel-corpora.html) |
+| | English-Setswana | | | [Autshumato Corpus](http://rma.nwu.ac.za/index.php/resource-catalogue/autshumato-english-setswana-multi-bilingual-corpus.html)  |
+| | English-Xitsonga | | | [Autshumato Corpus](http://rma.nwu.ac.za/index.php/resource-catalogue/autshumato-english-xitsonga-bilingual-corpus.html)  |
+| | English-Northern-Sotho | | | [Autshumato Corpus](https://repo.sadilar.org/handle/20.500.12185/402)  |
+| | English-Afrikaans | | | [Autshumato Corpus](https://repo.sadilar.org/handle/20.500.12185/397)  |
+| | English-isiXhosa | | | [Navy Corpus](http://opus.nlpl.eu/XhosaNavy.php) |
+| | Lingala-French | | | [Lingala Song Lyrics](https://github.com/espoirMur/songs_lyrics_webscrap) |
+| | Igbo-English  | | | [Igbo-English Evaluation Benchmark](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_en_mt) |
 
 
 ## Monolingual
