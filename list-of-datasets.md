@@ -3,9 +3,7 @@
 ## Translation 
 
 Task | Language(s) | Size | Domain | Source |
-
 |--------|------|--------|--------|--------|
-
 | | Multilingual | | | [JW300](http://opus.nlpl.eu/JW300.php) |
 | | English-isiZulu | | | [Autshumato Corpus](https://rma.nwu.ac.za/index.php/autshumato-eng-zu-parallel-corpora.html) |
 | | English-Setswana | | | [Autshumato Corpus](http://rma.nwu.ac.za/index.php/resource-catalogue/autshumato-english-setswana-multi-bilingual-corpus.html)  |
