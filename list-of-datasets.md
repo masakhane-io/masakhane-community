@@ -25,7 +25,7 @@
 |  isiZulu  | | | | [African Speech Technology](https://rma.nwu.ac.za/index.php/resource-catalogue/ast-corpus-isizulu.html)  |
 |  isiZulu  | | | | [Zulu Bible](https://raw.githubusercontent.com/christos-c/bible-corpus/master/bibles/Zulu-NT.xml) (to be scraped) |
 |  isiZulu  | | | | [Zulu Quoran](http://idmdawah.co.za/wp-content/uploads/2015/07/zulu-quran1.pdf) (to be scraped) |
-|  Igbo     |~384k| | | [Igbo Monolingual Dataset](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_monoling)|
+|  Igbo     |~384k| | | [Igbo Monolingual](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_monoling)|
 
 
 ## Named Entity Recognition
