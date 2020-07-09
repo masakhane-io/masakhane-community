@@ -2,7 +2,7 @@
 
 ## Machine Translation 
 
-| Language(s) | # Sents | Size | Domain | Source |
+| Language(s) | # Sent Pairs | Size | Domain | Source |
 |------|--------|--------|--------|--------|
 | Multilingual | | | | [JW300](http://opus.nlpl.eu/JW300.php) |
 | English-isiZulu | | | | [Autshumato Corpus](https://rma.nwu.ac.za/index.php/autshumato-eng-zu-parallel-corpora.html) |
@@ -12,7 +12,7 @@
 | English-Afrikaans | | | | [Autshumato Corpus](https://repo.sadilar.org/handle/20.500.12185/397)  |
 | English-isiXhosa | | | | [Navy Corpus](http://opus.nlpl.eu/XhosaNavy.php) |
 | Lingala-French | | | | [Lingala Song Lyrics](https://github.com/espoirMur/songs_lyrics_webscrap) |
-| Igbo-English  | | | | [Igbo-English Evaluation Benchmark](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_en_mt) |
+| Igbo-English  |10k| | | [Evaluation Benchmark](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_en_mt) |
 
 ## Monolingual
 
@@ -25,7 +25,7 @@
 |  isiZulu  | | | | [African Speech Technology](https://rma.nwu.ac.za/index.php/resource-catalogue/ast-corpus-isizulu.html)  |
 |  isiZulu  | | | | [Zulu Bible](https://raw.githubusercontent.com/christos-c/bible-corpus/master/bibles/Zulu-NT.xml) (to be scraped) |
 |  isiZulu  | | | | [Zulu Quoran](http://idmdawah.co.za/wp-content/uploads/2015/07/zulu-quran1.pdf) (to be scraped) |
-|  Igbo     | | | | [Igbo Monolingual Dataset (~384k sents)](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_monoling)|
+|  Igbo     |~384k| | | [Igbo Monolingual Dataset](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_monoling)|
 
 
 ## Named Entity Recognition
