@@ -2,6 +2,7 @@
 - [Akinfaderin, Adewale. "HausaMT v1.0: Towards English–Hausa Neural Machine Translation" (2020)](https://www.aclweb.org/anthology/2020.winlp-1.38/)
 - [Babafemi, Oyinlola  and Adewale Akinfaderin. "Predicting and Analyzing Law-Making in Kenya" (2020)](https://www.aclweb.org/anthology/2020.winlp-1.26/)
 - [Emezue, Chris C and Bonaventure FP Dossou. "FFR v1.1: Fon-French Neural Machine Translation" (2020)](https://www.aclweb.org/anthology/2020.winlp-1.21/)
+- [Siminyu, Kathleen and Sackey Freshia. "AI4D - African Language Dataset Challenge" (2020)](https://www.aclweb.org/anthology/2020.winlp-1.18/)
 
 
 
