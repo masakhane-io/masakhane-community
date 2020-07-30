@@ -10,7 +10,7 @@ Here we aim to give you a list of "Masakhane-approved" resources!
 
 ## Machine Translation 
 
-- Intro to Machine Translation: 
+- [JoeyNMT maintains a super helpful and succint list](https://joeynmt.readthedocs.io/en/latest/resources.html)
 
 ## Named Entity Recognition
 
