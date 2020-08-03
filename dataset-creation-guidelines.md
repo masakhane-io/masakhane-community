@@ -80,7 +80,7 @@ Some tokenization may separate "Ahmed" and "'s", in that case, we have, For exam
 > The patient is in the hospital.
 
 
-### Location Annotation [ORG]
+### Location Annotation [LOC]
 
 1) All country names,region names, state names and city names.
 
