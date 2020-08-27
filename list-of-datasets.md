@@ -27,7 +27,7 @@
 |  isiZulu  | | | | [Zulu Quoran](http://idmdawah.co.za/wp-content/uploads/2015/07/zulu-quran1.pdf) (to be scraped) |
 |  Igbo     |~384k| | | [Igbo Monolingual](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_monoling)|
 |  Yorùbá | ~626k | 560MB | Various | [Yorùbá Text](https://github.com/Niger-Volta-LTI/yoruba-text) (News, blogs, Bible/Quran/Mormon, proverbs, various books & corpora)  |
-
+|  Yorùbá | | 182MB | Various | [Wikipedia dump (cleaned)](https://github.com/tosingithub/ydesk/) (Various articles on science, entertainment, etc.) |
 
 ## Named Entity Recognition
 
