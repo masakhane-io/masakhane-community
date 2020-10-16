@@ -13,6 +13,9 @@
 | English-isiXhosa | | | | [Navy Corpus](http://opus.nlpl.eu/XhosaNavy.php) |
 | Lingala-French | | | | [Lingala Song Lyrics](https://github.com/espoirMur/songs_lyrics_webscrap) |
 | Igbo-English  |10k| | | [Evaluation Benchmark](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_en_mt) |
+| English-Hausa | 19k | | | [Paracrawl](https://s3.amazonaws.com/web-language-models/paracrawl/bonus/en-ha.txt.gz) |
+| English-Igbo |  | | | [Paracrawl](https://s3.amazonaws.com/web-language-models/paracrawl/bonus/en-ig.txt.gz) |
+
 
 ## Monolingual
 
