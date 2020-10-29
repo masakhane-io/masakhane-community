@@ -51,3 +51,6 @@
 
 ## Speech
 
+| Language | Size (GB) | Size (hours)| Annotation Type | Source |
+|------|--------|--------|--------|--------|
+|Yoruba| ~1 GB  | ~ 4 hours| [transcriptions](https://www.openslr.org/resources/86/annotation_info.txt) | [OpenSLR](https://openslr.org/86/)|
