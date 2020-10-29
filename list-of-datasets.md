@@ -49,4 +49,5 @@
 |  Yorùbá | | | | [Global Voices Yorùbá NER](https://github.com/ajesujoba/YorubaTwi-Embedding/tree/master/Yoruba/Yor%C3%B9b%C3%A1-NER)  |
 
 
+## Speech
 
