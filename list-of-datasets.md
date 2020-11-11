@@ -47,6 +47,7 @@
 |  Tshivenda | | | | [SADiLaR](https://repo.sadilar.org/handle/20.500.12185/355)  |
 |  isiNdebele | | | | [SADiLaR](https://repo.sadilar.org/handle/20.500.12185/306)  |
 |  Yorùbá | | | | [Global Voices Yorùbá NER](https://github.com/ajesujoba/YorubaTwi-Embedding/tree/master/Yoruba/Yor%C3%B9b%C3%A1-NER)  |
+|  Yorùbá | | | | [VOA Hausa NER](https://github.com/uds-lsv/transfer-distant-transformer-african/tree/master/data/hausa_ner)  |
 
 
 ## Speech
