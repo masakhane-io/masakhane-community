@@ -51,7 +51,7 @@ Want more details? Check out our [current initiatives](https://github.com/masakh
 ## How do I join?
 
 1. Join our [Slack](https://join.slack.com/t/masakhane-nlp/shared_invite/enQtODM3ODA3ODE0ODIwLTAyYzg3M2E3Nzg4Y2I3NzgxNDg4MmNlZDE4OTBjMzBjMjg4NTcxMWZlYTg3ZDljMTU4M2FjOTk3MDVjOWM2NGM)
-2. Request to join our [Google Group](https://groups.google.com/forum/#!forum/masakhane-mt) - this will add you to our weekly meetings
+2. Request to join our [Google Group](https://groups.google.com/forum/#!forum/masakhane-nlp) - this will add you to our weekly meetings
 
 3. So we can feature you on our webpage [masakhane.io](https://masakhane.io), please fill in our membership form [HERE](https://forms.gle/VpCyX7miBySNDfcAA):
 
