@@ -33,6 +33,8 @@
 |  Igbo     |~384k| | | [Igbo Monolingual](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_monoling)|
 |  Yorùbá | ~626k | 560MB | Various | [Yorùbá Text](https://github.com/Niger-Volta-LTI/yoruba-text) (News, blogs, Bible/Quran/Mormon, proverbs, various books & corpora)  |
 |  Yorùbá | | 182MB | Various | [Wikipedia dump (cleaned)](https://github.com/tosingithub/ydesk/) (Various articles on science, entertainment, etc.) |
+|  Setswana  | | | News | [Zenodo](https://zenodo.org/record/3668495)  |
+|  Sepedi  | | | News | [Zenodo](https://zenodo.org/record/3668495)  |
 
 ## Named Entity Recognition
 
@@ -50,6 +52,12 @@
 |  isiNdebele | | | | [SADiLaR](https://repo.sadilar.org/handle/20.500.12185/306)  |
 |  Yorùbá | | | | [Global Voices Yorùbá NER](https://github.com/ajesujoba/YorubaTwi-Embedding/tree/master/Yoruba/Yor%C3%B9b%C3%A1-NER)  |
 |  Hausa | | | | [VOA Hausa NER](https://github.com/uds-lsv/transfer-distant-transformer-african/tree/master/data/hausa_ner)  |
+
+## Sentiment Analysis
+| Language | # Sents | Size | Domain |  Source |
+|------|--------|--------|--------|--------|
+|  Tunisian Arabic  | | | | [Zenodo](https://zenodo.org/record/4275240)  |
+
 
 
 ## Speech
