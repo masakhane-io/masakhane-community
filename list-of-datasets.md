@@ -15,6 +15,8 @@
 | Igbo-English  |10k| | | [Evaluation Benchmark](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_en_mt) |
 | English-Hausa | 19k | | | [Paracrawl](https://s3.amazonaws.com/web-language-models/paracrawl/bonus/en-ha.txt.gz) |
 | English-Igbo |  | | | [Paracrawl](https://s3.amazonaws.com/web-language-models/paracrawl/bonus/en-ig.txt.gz) |
+| English-kiSwahili |  | | | [GourMET](http://opus.nlpl.eu/GoURMET.php) |
+| English-Amharic |  | | | [GourMET](http://opus.nlpl.eu/GoURMET.php) |
 
 
 ## Monolingual
