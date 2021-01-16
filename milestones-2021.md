@@ -1,4 +1,8 @@
+
 # 2021 Milestones
+
+[![hackmd-github-sync-badge](https://hackmd.io/TTxK0XEkS-qZVaBAbHhcpQ/badge)](https://hackmd.io/TTxK0XEkS-qZVaBAbHhcpQ)
+
 
 In 2020, we arranged our quarterly milestones around conferences. This was very helpful and allowed us to achieve real heights. In 2021, perhaps we can still use quarterly conference goals as motivation, while still paying attention to greater themes
 
