@@ -15,8 +15,26 @@
 | Igbo-English  |10k| | | [Evaluation Benchmark](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_en_mt) |
 | English-Hausa | 19k | | | [Paracrawl](https://s3.amazonaws.com/web-language-models/paracrawl/bonus/en-ha.txt.gz) |
 | English-Igbo |  | | | [Paracrawl](https://s3.amazonaws.com/web-language-models/paracrawl/bonus/en-ig.txt.gz) |
-| English-kiSwahili |  | | | [GourMET](http://opus.nlpl.eu/GoURMET.php) |
-| English-Amharic |  | | | [GourMET](http://opus.nlpl.eu/GoURMET.php) |
+| English-kiSwahili |  | | | [GourMeT](http://opus.nlpl.eu/GoURMET.php) |
+| English-Amharic |  | | | [GourMeT](http://opus.nlpl.eu/GoURMET.php) |
+| French-Swahili(Congo) | 25k | | | [TWB-Gamayun](https://gamayun.translatorswb.org/data/) |
+| English-kiSwahili | 5k | | | [TWB-Gamayun](https://gamayun.translatorswb.org/data/) |
+| French-Nande | 15k | | | [TWB-Gamayun](https://gamayun.translatorswb.org/data/) |
+| English-Hausa | 15k | | | [TWB-Gamayun](https://gamayun.translatorswb.org/data/) |
+| English-Kanuri | 5k | | | [TWB-Gamayun](https://gamayun.translatorswb.org/data/) |
+| English-Dinka | 3k | | | [TICO-19](https://tico-19.github.io/) |
+| English-Nigerian Fulfulde | 3k | | | [TICO-19](https://tico-19.github.io/) |
+| English-Hausa | 3k | | | [TICO-19](https://tico-19.github.io/) |
+| English/French-Luganda | 3k | | | [TICO-19](https://tico-19.github.io/) |
+| English/French-Lingala | 3k | | | [TICO-19](https://tico-19.github.io/) |
+| English-Nuer | 3k | | | [TICO-19](https://tico-19.github.io/) |
+| English/Amharic-Oromo | 3k | | | [TICO-19](https://tico-19.github.io/) |
+| English/French-Kinyarwanda | 3k | | | [TICO-19](https://tico-19.github.io/) |
+| English-Somali | 3k | | | [TICO-19](https://tico-19.github.io/) |
+| English/French-kiSwahili | 3k | | | [TICO-19](https://tico-19.github.io/) |
+| English/Amharic-Tigrinya (Ethiopian) | 3k | | | [TICO-19](https://tico-19.github.io/) |
+| English/Amharic-Tigrinya (Eritrean) | 3k | | | [TICO-19](https://tico-19.github.io/) |
+| English/French-Zulu | 3k | | | [TICO-19](https://tico-19.github.io/) |
 
 
 ## Monolingual
@@ -35,6 +53,7 @@
 |  Yorùbá | | 182MB | Various | [Wikipedia dump (cleaned)](https://github.com/tosingithub/ydesk/) (Various articles on science, entertainment, etc.) |
 |  Setswana  | | | News | [Zenodo](https://zenodo.org/record/3668495)  |
 |  Sepedi  | | | News | [Zenodo](https://zenodo.org/record/3668495)  |
+| kiSwahili |  | | News | [GourMeT](https://gourmet-project.eu/data-model-releases/) |
 
 ## Named Entity Recognition
 
@@ -62,6 +81,8 @@
 
 ## Speech
 
-| Language | Size (GB) | Size (hours)| Annotation Type | Source |
-|------|--------|--------|--------|--------|
-|Yoruba| ~1 GB  | ~ 4 hours| [transcriptions](https://www.openslr.org/resources/86/annotation_info.txt) | [OpenSLR](https://openslr.org/86/)|
+| Language | Size (GB) | Size (hours)| No. Speakers | Annotation Type | Source |
+|------|--------|--------|--------|--------|--------|
+|Yoruba| ~1 GB  | ~ 4 hours| |[transcriptions](https://www.openslr.org/resources/86/annotation_info.txt) | [OpenSLR](https://openslr.org/86/)|
+|kiSwahili| 1.7 GB  | ~ 6 hours| 1 | transcriptions | [TWB-Gamayun](https://gamayun.translatorswb.org/data/)|
+
