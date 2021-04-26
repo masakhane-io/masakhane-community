@@ -12,6 +12,39 @@
 
 Website: [masakhane.io](https://masakhane.io)
 
+## Our Mission
+
+Masakhane is a grassroots organisation whose mission is to strengthen and spur NLP research in African languages, for Africans, by Africans. Despite the fact that 2000 of the world’s languages are African, African languages are barely represented in technology. The tragic past of colonialism has been devastating for African languages in terms of their support, preservation and integration. This has resulted in technological space that does not understand our names, our cultures, our places, our history. 
+
+Masakhane roughly translates to “We build together” in isiZulu. Our goal is for Africans to shape and own these technological advances towards human dignity, well-being and equity, through inclusive community building, open participatory research and multidisciplinarity
+
+
+## Our Values 
+
+- **Umuntu Ngumuntu Ngabantu** - loosely translated from isiZulu means “a person is a person through another person” or “I am because you are”. This philosophy calls for collaboration and participation and community. It proposes relationality, over individualism for stronger social cohesions towards sustainable communities. It believes we share our successes and one’s personhood is evaluated based on their contributions to the community.  
+
+- **African-centricity**. We centralize the narratives of Africans as a remedy to the effects of Euro-centricism on our beliefs. This way we reassert a new way of looking at information from a African perspective and shun any attempts to devalue our knowledge and stories
+
+- **Ownership** - We believe that Africans should be in charge of owning, driving and participating in the NLP research process, rather than as observers or data providers. 
+
+- **Openness** - We believe in sharing our ideas and progress openly, especially on the African continent, for Africans. We’re against research that takes African contributions or data and puts them behind a paywall that is infeasible for Africans to access. 
+
+- **Multidisciplinarity** - We truly believe that participation from all fields and experience and that multidisciplinarity leads to a more robust and more inclusive society
+
+- **Everyone has valuable knowledge** - We believe that each person’s individual experiences have value and each person is worth listening too and has something to contribute. 
+
+- **Kindness** - We believe that being considerate, friendly and generous within our community is the best way to support it and encourage more inclusivity
+
+- **Responsibility** - We believe that each person in the technology process has an ethical responsibility to what they produce in the world. For this reason, we actively wreckon with the ethical impacts of our work
+
+- **Data sovereignty** - We believe Africans should be able to decide what data represents our communities globally, retain ultimate ownership of that data, and know how it is used
+
+- **Reproducibility** - We believe in reproducible research. As a result, we publish our code and data from our research so that others can reproduce and build upon it.  
+
+- **Sustainability** - We believe that sustainability is necessary for societal change - that small daily efforts, over a long time are what truly change the world. To that, we aim for sustainability of our work, by being fully integrated with technological stakeholders to ensure the community continues to thrive into the future 
+
+
+
 ## Goals
 
 - **For Africa**: To build and facilitate a community of NLP researchers, connect and grow it, spurring and sharing further research, build helpful tools for applications in government, medicine, science and education, to enable language preservation and increase its global visibility and relevance. 
