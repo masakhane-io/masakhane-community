@@ -5,12 +5,14 @@
 | Language(s) | # Sent Pairs | Size | Domain | Source |
 |------|--------|--------|--------|--------|
 | Multilingual | | | | [JW300](http://opus.nlpl.eu/JW300.php) |
+| Multilingual | | | | [Mozilla localization](https://opus.nlpl.eu/Mozilla-I10n.php) |
 | English-isiZulu | | | | [Autshumato Corpus](https://rma.nwu.ac.za/index.php/autshumato-eng-zu-parallel-corpora.html) |
 | English-Setswana | | | | [Autshumato Corpus](http://rma.nwu.ac.za/index.php/resource-catalogue/autshumato-english-setswana-multi-bilingual-corpus.html)  |
 | English-Xitsonga | | | | [Autshumato Corpus](http://rma.nwu.ac.za/index.php/resource-catalogue/autshumato-english-xitsonga-bilingual-corpus.html)  |
 | English-Northern-Sotho | | | | [Autshumato Corpus](https://repo.sadilar.org/handle/20.500.12185/402)  |
 | English-Afrikaans | | | | [Autshumato Corpus](https://repo.sadilar.org/handle/20.500.12185/397)  |
 | English-isiXhosa | | | | [Navy Corpus](http://opus.nlpl.eu/XhosaNavy.php) |
+| English-isiXhosa | | | | [MeMat corpora](http://statmt.org/memat/) |
 | Lingala-French | | | | [Lingala Song Lyrics](https://github.com/espoirMur/songs_lyrics_webscrap) |
 | Igbo-English  |10k| | | [Evaluation Benchmark](https://github.com/IgnatiusEzeani/IGBONLP/tree/master/ig_en_mt) |
 | English-Hausa | 19k | | | [Paracrawl](https://s3.amazonaws.com/web-language-models/paracrawl/bonus/en-ha.txt.gz) |
