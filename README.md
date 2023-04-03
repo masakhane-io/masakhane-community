@@ -116,6 +116,7 @@ Keen to help on any of these initiatives? Please see our [message board](https:/
 | Multilingual Chatbot           | Developing multilingual chatbots                                                                                       | #multilingual-dialogue |                                                      |
 | Transfer Learning              | Transfer Learning & Multilingual Expansion of Benchmarks                                                               | #transfer-learning     |                                                      |
 | Evaluation of Masakhane Models | How good are the Masakhane models? How can we measure it, besides looking at BLEU scores?                              | #evaluation            |                                                      |
+| Text-to-speech | Corpora and models for text to speech synthesis (TTS) from audio bibles in Ewe, Hausa, Lingala, Asante Twi, Akuapem Twi and Yoruba | #bible-speech            |               [HERE](https://masakhane-io.github.io/bibleTTS/)                                      |
 
 # Code of Conduct
 
